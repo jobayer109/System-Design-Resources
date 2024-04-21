@@ -1,6 +1,6 @@
 
 ## `Live class record Link:`
-* [Live class: 5](https://drive.google.com/file/d/1zA6VfAc7kfpd0NX6dGjEn9KOhGM3Aksj/view)
+* [Live class: 6](https://drive.google.com/file/d/1zA6VfAc7kfpd0NX6dGjEn9KOhGM3Aksj/view)
 
 ## `Networking Related Blogs:`
 * [What Is the OSI Model ?](https://www.imperva.com/learn/application-security/osi-model/)
