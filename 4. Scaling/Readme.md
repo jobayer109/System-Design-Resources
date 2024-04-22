@@ -1,6 +1,6 @@
 
 ## `Live class record Link:`
-* [Live class: 4](https://drive.google.com/file/d/1yx5_bDj1Sapj8PhKpT4gTQNheaIOE61Y/view?usp=sharing)
+* [Live class: 4 - Horizontal vs Vertical Scaling](https://drive.google.com/file/d/1yx5_bDj1Sapj8PhKpT4gTQNheaIOE61Y/view?usp=sharing)
 
 ## `Blogs:`
 * [Horizontal vs Vertical Scaling](https://medium.com/@sill/system-design-horizontal-vs-vertical-scaling-8e0f24a2e46f)
